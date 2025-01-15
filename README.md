@@ -39,7 +39,7 @@ Depending on the encounter and what resists are needed see above for songs one a
 - [McVaxius's Rousing Rondo](https://wiki.project1999.com/McVaxius'_Rousing_Rondo) (Attack Speed, STR, ATK, DS) - The benefit of this song is that it uses a brass instrument which means these stats increase quite a bit
 - [Verses of Victory](https://wiki.project1999.com/Verses_of_Victory) (Attack Speed/AGI/AC/STR) - Downside to this song is that it is singing and you can't boost it's performance
 - [Composition of Ervaj](https://wiki.project1999.com/Composition_of_Ervaj) - If your DPSers are haste capped this likely won't be that beneficial. Plus you are missing out on nice stats that MRR or VoV provide.
-- [Vilia's Chorus of Celerity](https://wiki.project1999.com/Vilia%27s_Chorus_of_Celerity) - If your DPSers are haste capped this likely won't be that beneficial. Plus you are missing out on nice stats that like MMR or VoV provide.
+- [Vilia's Chorus of Celerity](https://wiki.project1999.com/Vilia%27s_Chorus_of_Celerity) - If your DPSers are haste capped this likely won't be that beneficial. Plus you are missing out on nice stats that like MRR or VoV provide.
 - [Hymn of Restoration](https://wiki.project1999.com/Hymn_of_Restoration) - Straight heals homie
 - [Cantana of Replenishment](https://wiki.project1999.com/Cantata_of_Replenishment)  - if your DPSers need a bit of healing and mana
 

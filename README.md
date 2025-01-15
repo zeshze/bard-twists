@@ -52,4 +52,11 @@ I've ordered this like this to promote what I think are the important things for
 - AC (McVaxius' Rousing Rondo, Nix's Harmonic)
 - *Potentially others*
 
+## Miscellaneous useful resources
+
+- [Buff lines](https://wiki.project1999.com/Buff_Lines) - Find out what buffs stack
+- [P99 Bard](https://wiki.project1999.com/Bard) - Lots of general bard info
+- [P99 Bard Gear](https://wiki.project1999.com/Bard#Gearing) - Our gear
+- [P99 Bard Songs](https://wiki.project1999.com/Bard#Songs) - Our songs
+
 Feel free to hit me up or submit a PR if you think something is different or have something to add.

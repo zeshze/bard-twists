@@ -41,7 +41,7 @@ Depending on the encounter and what resists are needed see above for songs one a
 - [Composition of Ervaj](https://wiki.project1999.com/Composition_of_Ervaj) - If your DPSers are haste capped this likely won't be that beneficial. Plus you are missing out on nice stats that MRR or VoV provide.
 - [Vilia's Chorus of Celerity](https://wiki.project1999.com/Vilia%27s_Chorus_of_Celerity) - If your DPSers are haste capped this likely won't be that beneficial. Plus you are missing out on nice stats that like MRR or VoV provide.
 - [Hymn of Restoration](https://wiki.project1999.com/Hymn_of_Restoration) - Straight heals homie
-- [Cantana of Replenishment](https://wiki.project1999.com/Cantata_of_Replenishment)  - if your DPSers need a bit of healing and mana
+- [Cantana of Replenishment](https://wiki.project1999.com/Cantata_of_Replenishment)  - If your DPSers need a bit of healing and mana
 
 ## General thoughts
 

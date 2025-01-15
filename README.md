@@ -45,11 +45,11 @@ Depending on the encounter and what resists are needed see above for songs one a
 
 ## General thoughts
 
-I've ordered this like this to promote what I think are the important things for supporting a tank:
+I've ordered this like this to promote what I think are the important things for supporting melee of any kind. One/two are likely always resists. Next damage shield for tanks and attack boosts for melee. Followed by other supporting songs like AC for tanks or heals for DPS.
 
 - Resists (Guardian/Elemental Rhythms, Psalm of Mystic Shielding/Cooling/Warmth/Purity/Vitality)
-- Damage Shield (McVaxius' Rousing Rondo, Psalm of Warmth/Cooling)
-- AC (McVaxius' Rousing Rondo, Nix's Harmonic)
+- Damage Shield/Attack (McVaxius' Rousing Rondo, Psalm of Warmth/Cooling, Verses of Victory, Composition of Ervaj, Vilia's Chorus of Celerity, etc.)
+- AC/Heals (McVaxius' Rousing Rondo, Nix's Harmonic, Hymn of Restoration, Cantana of Replenishment, etc.)
 - *Potentially others*
 
 ## Miscellaneous useful resources
